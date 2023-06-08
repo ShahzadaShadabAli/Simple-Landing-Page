@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.page{
+    background-image: url("./arnold-francisca-f77Bh3inUpE-unsplash.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 9vh;
+    opacity: 70%;
+}
+.icon{
+    background-color: brown;
+    height: 55px;
+    width:55px ;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-image: url("./downloadm.jpg");
+    background-size: cover;
+}
+.links{
+    height: 100%;
+    width: 50%;
+    margin-left: 50%;
+    position: relative;
+    bottom: 55px;
+}
+.heading{
+    height: 85px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 190px;
+    text-align: center;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: white;
+}
+.html{
+    height: 50px;
+    width:160px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 0 0 0 38%;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.css{
+    height: 50px;
+    width:160px;
+    display: inline-block;
+    margin-left: 3px;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: solid white;
+    border-width: 1px;
+}
+.h{
+    position: relative;
+    top: 7px;
+    left: 7px;
+}
+.c{
+    position: relative;
+    top: 7px;
+    left: 15px; 
+}
+ul{
+    display: inline-flex;
+    margin-left: 100px;
+}
+li{
+    display: inline-flex;
+    list-style-type: none;
+   margin: 24px 0 0 15px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 70px;
+    height: 20px;
+    border: solid white;
+    border-width: 1.5px;
+}
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 70px;
+    height: 20px;
+    border: solid white;
+    border-width: 1.5px;
+}
+.btn{
+    width: 90px;
+}
+.btn:hover{
+    width: 90px;
+}
+a{
+    text-decoration: none;
+}
